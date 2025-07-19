@@ -1,10 +1,10 @@
  const channelList = [
   {
-  name: 'teincee inteeer',
-    getURL: 'VHlDX0ludGVybmFjaW9uYWw',
-    keyId: "58e1ebe75d944f6a98ea67b1c7c0a572",
-    key: "1c311b069dbce31ce8e62a6e7e2433eb",
-    number: 3,
+  name: 'teee espoo arge',
+    getURL: 'VE5UX1Nwb3J0c19IRA',
+    keyId: "bc80fa3da696e503f940fde5f681a1c5",
+    key: "ea46e4e9f1132e8dd71fb77f7d55058a",
+    number: 6,
    
   }
 ]
