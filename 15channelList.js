@@ -1,9 +1,9 @@
  const channelList = [
   {
-  name: 'foo 1 arge',
-    getURL: 'Rm94U3BvcnRz',
-    keyId: "cbc2a0c7a38df0aa3333cd71841d3b0d",
-    key: "aac61b730e2ac1df23f1e872e7541c1b",
+  name: 'foo 2 arge',
+    getURL: 'Rm94U3BvcnRzMkhE',
+    keyId: "c98ddffc470fe449ae1a8d6492116976",
+    key: "5086d370e840010232cf4532b16e197f",
     number: 3,
    
   }
