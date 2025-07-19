@@ -1,10 +1,10 @@
  const channelList = [
   {
-  name: 'espee pre arge',
-    getURL: 'VE5UX1Nwb3J0c19IRA',
-    keyId: "bc80fa3da696e503f940fde5f681a1c5",
-    key: "ea46e4e9f1132e8dd71fb77f7d55058a",
-    number: 6,
+  name: 'teincee arge',
+    getURL: 'VHlDU3BvcnQ',
+    keyId: "2b21c8fa9a329cce311a4c4a4aa996a1",
+    key: "cc23ea1fb32629f9e1f48c8deeae3e5b",
+    number: 7,
    
   }
 ]
