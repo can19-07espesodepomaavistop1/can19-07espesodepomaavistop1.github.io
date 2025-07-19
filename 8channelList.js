@@ -1,9 +1,9 @@
  const channelList = [
   {
-  name: 'espee arge 5',
-    getURL: 'RVNQTjQ=',
-    keyId: "24f2b3e741f0d9e9a8d516faff38bddc",
-    key: "bbd3fd02fb104e1463ac528a13f67e4a",
+  name: 'espee arge 6',
+    getURL: 'Rm94U3BvcnRzM19VWQ==',
+    keyId: "5fc7b662e69c0fbf8d39691166b1c919",
+    key: "89157cdd25df25d56f1ecccee3850888",
     number: 7,
    
   }
